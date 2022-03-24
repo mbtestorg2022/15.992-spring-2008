@@ -9,7 +9,7 @@ General References and Resources
 
 Little, Richard G. "Tending the Infrastructure Commons: Ensuring the Sustainability of Our Vital Public Systems." Paper presented at the International Workshop on Integrated Life-cycle Management of Infrastructures, Hong Kong, December 9-11, 2004.
 
-Bell, Ann Maria. "Taking Externalities Seriously: An Economic Perspective on the Precautionary Principle." Redefining Progress, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://annmariabell.com/research/AMBell_precaution_short.pdf))
+Bell, Ann Maria. "Taking Externalities Seriously: An Economic Perspective on the Precautionary Principle." Redefining Progress, 2002. ([PDF](http://annmariabell.com/research/AMBell_precaution_short.pdf))
 
 Commission on Sustainable Development. "Sanitation: Policy Options and Possible Actions to Expedite Implementation." United Nations report, December 2004. This report can be accessed from [here](http://www.un.org/News/Press/docs/2005/envdev823.doc.htm), file E/CN.17/2005/3.
 
@@ -19,13 +19,13 @@ Gleick, Peter. "Global Freshwater Resources: Soft-Path Solutions for the 21st Ce
 
 Margonelli, Lisa. "[Waste Not](http://www.theatlantic.com/doc/200805/recycled-steam)." _Atlantic_, May 2008.
 
-Murcott, Susan. "Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking Water Treatment and Safe Storage Systems." Draft Article, May 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.hip.watsan.net/content/download/1217/6114/file/20060501-HWTS-Murcott.pdf))
+Murcott, Susan. "Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking Water Treatment and Safe Storage Systems." Draft Article, May 2006. ([PDF](http://www.hip.watsan.net/content/download/1217/6114/file/20060501-HWTS-Murcott.pdf))
 
-Brown, Paige, editor. "Sustainable Agriculture and Common Assets: Stewardship Success Stories." Redefining Progress, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sfenvironment.org/downloads/library/13precprinwhitepaper.pdf))
+Brown, Paige, editor. "Sustainable Agriculture and Common Assets: Stewardship Success Stories." Redefining Progress, 2002. ([PDF](http://www.sfenvironment.org/downloads/library/13precprinwhitepaper.pdf))
 
-"Catalyzing Change." Stockholm, Sweden: Global Water Partnership, 2004. ISBN: 9789197455992. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.gwpforum.org/gwp/library/Catalyzing_change-final.pdf))
+"Catalyzing Change." Stockholm, Sweden: Global Water Partnership, 2004. ISBN: 9789197455992. ([PDF](http://www.gwpforum.org/gwp/library/Catalyzing_change-final.pdf))
 
-Grayson, David, et al. "A New Mindset for Corporate Responsibility." White paper sponsored by BT and Cisco, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.semanticscholar.org/paper/A-new-mindset-for-corporate-sustainability-Grayson-Rodr%C3%ADguez/542e792c71a62d9013241c18ed1542706475cca8))
+Grayson, David, et al. "A New Mindset for Corporate Responsibility." White paper sponsored by BT and Cisco, 2008. ([PDF](https://www.semanticscholar.org/paper/A-new-mindset-for-corporate-sustainability-Grayson-Rodr%C3%ADguez/542e792c71a62d9013241c18ed1542706475cca8))
 
 "[Just Good Business](http://www.economist.com./specialreports/displaystory.cfm?story_id=10491077)." _Economist_, January 17, 2008.
 
@@ -35,7 +35,7 @@ Gates, Bill. "[A New Approach to Capitalism in the 21st Century](https://www.net
 
 Rosling, Hans. "[New Insights on Poverty and Life Around the World](http://www.ted.com/index.php/talks/hans_rosling_reveals_new_insights_on_poverty.html)." TED Ideas Worth Spreading, March 2007. Video lectures.
 
-"Business Guide to a Sustainable Supply Chain." Auckland, Australia: New Zealand Business Council for Sustainable Development, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB](http://www.nzbcsd.org.nz/supplychain/SupplyChain.pdf))
+"Business Guide to a Sustainable Supply Chain." Auckland, Australia: New Zealand Business Council for Sustainable Development, 2003. ([PDF - 2.6 MB](http://www.nzbcsd.org.nz/supplychain/SupplyChain.pdf))
 
 "How Companies Think About Climate Change." _The McKinsey Quarterly_, December 2007.
 

@@ -108,9 +108,9 @@ Organizational response
 
 Barringer, Felicity. "In Many Communities, It's Not Easy Going Green." _New York Times_, February 7, 2008.
 
-Repenning, Nelson, and John Sterman. "Nobody Ever Gets Credit for Fixing Problems That Never Happened." _California Management Review_ 43, no. 4 (2001): 64-88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf))
+Repenning, Nelson, and John Sterman. "Nobody Ever Gets Credit for Fixing Problems That Never Happened." _California Management Review_ 43, no. 4 (2001): 64-88. ([PDF](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf))
 
-Repenning, Nelson, Paulo Goncalves, and Laura J. Black. "Past the Tipping Point: The Persistence of Firefighting in Product Development." _California Management Review_ 43, no. 4 (2001): 44-63. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/nelsonr/www/TippingV2_0-sub_doc.pdf))
+Repenning, Nelson, Paulo Goncalves, and Laura J. Black. "Past the Tipping Point: The Persistence of Firefighting in Product Development." _California Management Review_ 43, no. 4 (2001): 44-63. ([PDF](http://web.mit.edu/nelsonr/www/TippingV2_0-sub_doc.pdf))
 
 
 {{< tdclose >}}
@@ -172,9 +172,9 @@ Walker, Brian. "[You Are Only As Green As Your Supply Chain](http://web.archive.
 
 "[Our Journey Toward a Better World](http://www.hermanmiller.com/About-Us/A-Better-World-Report)." Zeeland, MI: Herman Miller, Inc.
 
-"A Message from Brian Walker, CEO." Fiscal Year 2005. Zeeland, MI: Herman Miller, Inc., 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.hermanmiller.com/content/dam/hermanmiller/documents/investors/HMI_2005_MESSAGE_BRIAN_WALKER.pdf))
+"A Message from Brian Walker, CEO." Fiscal Year 2005. Zeeland, MI: Herman Miller, Inc., 2006. ([PDF](https://www.hermanmiller.com/content/dam/hermanmiller/documents/investors/HMI_2005_MESSAGE_BRIAN_WALKER.pdf))
 
-Svoboda, Susan. "Note on Life Cycle Analysis." Ann Arbor, MI: University of Michigan, 1995. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.umich.edu/~nppcpub/resources/compendia/CORPpdfs/CORPlca.pdf))
+Svoboda, Susan. "Note on Life Cycle Analysis." Ann Arbor, MI: University of Michigan, 1995. ([PDF](http://www.umich.edu/~nppcpub/resources/compendia/CORPpdfs/CORPlca.pdf))
 
 Robert, K. H., et al. "Strategic Sustainable Development: Selection, Design and Synergies of Applied Tools." _Journal of Cleaner Production_ 10 (2002): 197-214.
 
@@ -342,7 +342,7 @@ Sperling, Daniel, and Joan Ogden. "The Hope for Hydrogen." _Issues in Science an
 
 ### Recommended
 
-Lovins, Amory, and Brett Williams. "A Strategy for the Hydrogen Transition." Paper presented at the 10th Annual U.S. Hydrogen Meeting, National Hydrogen Association. Vienna, Virginia, April 7-9, 1999. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.rmi.org%2Fcms%2FDownload.aspx%3Fid%3D6674%26file%3DT99-07%252C%2BA%2BStrategy%2Bfor%2Bthe%2BHydrogen%2BTransition.pdf%26title%3DStrategy%2Bfor%2Bthe%2BHydrogen%2BTransition&ei=JAftUMrcIcWu0AGX4oDABQ&usg=AFQjCNGLM48oyFnwvEHKgejoQviEzuW-Vw&bvm=bv.1357316858,d.d2k&cad=rja))
+Lovins, Amory, and Brett Williams. "A Strategy for the Hydrogen Transition." Paper presented at the 10th Annual U.S. Hydrogen Meeting, National Hydrogen Association. Vienna, Virginia, April 7-9, 1999. ([PDF](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.rmi.org%2Fcms%2FDownload.aspx%3Fid%3D6674%26file%3DT99-07%252C%2BA%2BStrategy%2Bfor%2Bthe%2BHydrogen%2BTransition.pdf%26title%3DStrategy%2Bfor%2Bthe%2BHydrogen%2BTransition&ei=JAftUMrcIcWu0AGX4oDABQ&usg=AFQjCNGLM48oyFnwvEHKgejoQviEzuW-Vw&bvm=bv.1357316858,d.d2k&cad=rja))
 
 Fargione, Joseph, et al. "Land Clearing and the Biofuel Carbon Debt." _Science_ 319, no. 5867 (2008): 1235-1238.
 
@@ -402,9 +402,9 @@ Green buildings: new markets and services
 
 "[Investing in the Environment: The Financial Industry's Approach to Green Building](http://www.buildinggreen.com/auth/article.cfm?fileName=161101a.xml)." _Environmental Building News_ 16, no. 11 (2007).
 
-Kats, Gregory. "Green Building Costs and Financial Benefits." Massachusetts Technology Collaborative, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.greenspacebuildings.com/wp-content/uploads/2011/05/Kats-Green-Buildings-Cost.pdf))
+Kats, Gregory. "Green Building Costs and Financial Benefits." Massachusetts Technology Collaborative, 2003. ([PDF](http://www.greenspacebuildings.com/wp-content/uploads/2011/05/Kats-Green-Buildings-Cost.pdf))
 
-Miller, Norman, Jay Spivey, and Andy Florance. "Does Green Pay Off?" Draft Article, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.energystar.gov/sites/default/files/buildings/tools/DoesGreenPayOff.pdf))
+Miller, Norman, Jay Spivey, and Andy Florance. "Does Green Pay Off?" Draft Article, 2010. ([PDF](https://www.energystar.gov/sites/default/files/buildings/tools/DoesGreenPayOff.pdf))
 
 
 {{< tdclose >}}
@@ -516,7 +516,7 @@ Action at the industry and societal levels: industry collaborations, certificati
 
 ### Required
 
-Senge, Peter. "Unconventional Allies: Coke and WWF Partner for Sustainable Water." Chapter 7 in _The Necessary Revolution_. New York, NY: Random House, Inc., 2008. ISBN: 9780385519014. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.economist.com/media/management/necessary-revolution-senge-uk-e.pdf))
+Senge, Peter. "Unconventional Allies: Coke and WWF Partner for Sustainable Water." Chapter 7 in _The Necessary Revolution_. New York, NY: Random House, Inc., 2008. ISBN: 9780385519014. ([PDF](http://www.economist.com/media/management/necessary-revolution-senge-uk-e.pdf))
 
 
 {{< tdclose >}}
